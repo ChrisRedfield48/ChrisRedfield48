@@ -31,7 +31,7 @@
 
 ```yaml
 name:       Ип Никита
-location:   Belgrade, Serbia 🇷🇸
+location:   Russia 🇷🇺
 role:       Web Developer
 status:     Open to Work
 goal:       Transfer to European Academy 2029
