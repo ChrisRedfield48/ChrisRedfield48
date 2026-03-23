@@ -137,6 +137,4 @@ College       Figma ✓         Learning →       HERE]          + AI]    ACADE
 © 2026 NIP.SYS · НИКИТА ИП · BELGRADE, RS
 ```
 
-*"Создаю современные интерфейсы. Планирую трансфер в Европу."*
-
 </div>
