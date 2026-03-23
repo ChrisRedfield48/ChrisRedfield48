@@ -30,7 +30,7 @@
 </div>
 
 ```yaml
-name:       Ип Никита
+name:       Chris
 location:   Russia 🇷🇺
 role:       Web Developer
 status:     Open to Work
