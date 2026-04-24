@@ -87,7 +87,11 @@ Python / AI         ░░░░░░░░░░░░░░░░░░░░
 | 05 | [**Createx UI**](https://chrisredfield48.github.io/Createx/) | UI Kit | ✅ SHIPPED |
 | 06 | [**NIP.SYS Portfolio**](https://chrisredfield48.github.io/ip/) | Dashboard | ✅ SHIPPED |
 | 07 | Calculator | Vanilla JS App | ⏳ QUEUED |
-| 08 | React Project | React App | ⏳ QUEUED |
+| 08 | Tic-Tac-Toe | Vanilla JS Game | ⏳ QUEUED |
+| 09 | Todo List | Vanilla JS App | ⏳ QUEUED |
+| 10 | Quiz | Vanilla JS App | ⏳ QUEUED |
+| 11 | Weather App | Vanilla JS App | ⏳ QUEUED |
+| 12 | React Project | React App | ⏳ QUEUED |
 
 </div>
 
