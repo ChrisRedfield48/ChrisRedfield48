@@ -80,7 +80,7 @@ Python / AI         ░░░░░░░░░░░░░░░░░░░░
 
 | # | PROJECT | TYPE | STATUS |
 |---|---------|------|--------|
-| 01 | [**Birthday Search**]([https://chrisredfield48.github.io/voda/) | Vanilla JS App | ✅ SHIPPED |
+| 01 | [**Birthday Search**](https://chrisredfield48.github.io/voda/) | Vanilla JS App | ✅ SHIPPED |
 | 02 | [**Zodiac Signs**](https://chrisredfield48.github.io/zodiac/) | Vanilla JS App | ✅ SHIPPED |
 | 03 | [**Graphic Designer**](https://chrisredfield48.github.io/graphic-designer/) | UI Design | ✅ SHIPPED |
 | 04 | [**Cyberpunk Promo**](https://chrisredfield48.github.io/Cyberpunk/) | Promo Site | ✅ SHIPPED |
