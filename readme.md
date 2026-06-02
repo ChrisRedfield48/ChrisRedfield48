@@ -1,98 +1,191 @@
 <div align="center">
-  <pre>
- ██████╗██╗  ██╗██████╗ ██╗███████╗
-██╔════╝██║  ██║██╔══██╗██║██╔════╝
-██║     ███████║██████╔╝██║███████╗
-██║     ██╔══██║██╔══██╗██║╚════██║
-╚██████╗██║  ██║██║  ██║██║███████║
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
-  </pre>
-  <h3>NIP.SYS v3.1 · PERSONAL OS</h3>
 
-  [![Status](https://img.shields.io/badge/STATUS-ONLINE-ff3b3b?style=for-the-badge)](https://chrisredfield48.github.io/ip/)
-  [![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-ff3b3b?style=for-the-badge)](https://t.me/+QpzXesYhdSs1Mzcy)
-  [![Telegram](https://img.shields.io/badge/TELEGRAM-1a1a1a?style=for-the-badge&logo=telegram&logoColor=ff3b3b&color=1a1a1a)](https://t.me/+QpzXesYhdSs1Mzcy)
-  [![GitHub](https://img.shields.io/badge/GITHUB-1a1a1a?style=for-the-badge&logo=github&logoColor=ff3b3b&color=1a1a1a)](https://github.com/ChrisRedfield48)
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=for-the-badge&color=1a1a1a)](https://chrisredfield48.github.io/ip/)
+```
+        .  *       .          ✦              .      *
+   *           .          .            *
+         ___________________________________________
+        /                                           \
+       │   ◍   N I P . S Y S   ◍   M I S S I O N    │
+        \___________________________________________/
+              .              *           .
+     *                                          ✦
+                    .         *
+              ___---___
+           .--         --.
+         ./   ()      .-. \.
+        /   o    .   (   )  \         L A U N C H   V E S S E L
+       / .            '-'    \        ───────────────────────
+      | ()    .  O         .  |       designation · CHRIS
+      |            .  ____     |       class · WEB DEVELOPER
+      \    .     :   /    \   /        origin · RUSSIA
+       \         :  |      | /         heading · BELGRADE
+        \    .    :  \____/ /          eta · 2029
+         '.   .   :       .'
+           '-.__ : ___.-'
+                '''
+```
+
+# ⟢ MISSION: EUROPEAN ACADEMY ⟣
+
+**A developer's transit log — Russia to Europe, one commit at a time.**
+
+[![SIGNAL](https://img.shields.io/badge/SIGNAL-◉_LIVE-4fffc4?style=for-the-badge&labelColor=0a0e1c)](https://chrisredfield48.github.io/ip/)
+[![CREW](https://img.shields.io/badge/CREW-OPEN_TO_WORK-6c7bff?style=for-the-badge&labelColor=0a0e1c)](https://t.me/+QpzXesYhdSs1Mzcy)
+[![COMMS](https://img.shields.io/badge/TELEGRAM-OPEN_CHANNEL-38c5ff?style=for-the-badge&logo=telegram&logoColor=38c5ff&labelColor=0a0e1c)](https://t.me/+QpzXesYhdSs1Mzcy)
+[![SOURCE](https://img.shields.io/badge/GITHUB-ARCHIVE-a06bff?style=for-the-badge&logo=github&logoColor=a06bff&labelColor=0a0e1c)](https://github.com/ChrisRedfield48)
 
 </div>
 
 ---
 
-## 🔴 SYS.INFO
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ⟢ TRANSMISSION 0x01 · CREW MANIFEST                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                                ║
+║   > whoami                                                     ║
+║   CHRIS — web developer, building a way west.                  ║
+║                                                                ║
+║   > status                                                     ║
+║   ◉ OPEN TO WORK · remote · ready for boarding                ║
+║                                                                ║
+║   > log                                                        ║
+║   Each project is a checkpoint. Each year, a burn.             ║
+║   Destination locked: LAT 44.8125 · LON 20.4612               ║
+║                                                                ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-| Key | Value |
+| ⟢ FIELD | READING |
 | :--- | :--- |
-| **operator** | Chris |
-| **location** | Russia → Serbia 2029 |
-| **class** | Web Developer |
-| **mission** | European Academy |
-| **languages** | Russian · English |
-| **status** | 🟢 OPEN TO WORK |
+| `operator` | **Chris** |
+| `class` | Web Developer |
+| `origin` | Russia |
+| `heading` | Serbia · 2029 |
+| `mission` | European Academy |
+| `comms` | Russian · English |
+| `state` | ◉ **OPEN TO WORK** |
 
 ---
 
-## 🔴 TECH.STACK
+## ⟢ TRANSMISSION 0x02 · SYSTEMS DIAGNOSTIC
 
-| Skill | Progress | % | Status |
-| :--- | :--- | :--- | :--- |
-| **HTML / CSS** | `[██████████]` | 100% | `✓ DONE` |
-| **Figma** | `[██████████]` | 100% | `✓ DONE` |
-| **JavaScript** | `[███░░░░░░░]` | 30% | `→ ACTIVE` |
-| **React** | `[░░░░░░░░░░]` | 0% | `░ QUEUED` |
-| **Python / AI** | `[░░░░░░░░░░]` | 0% | `░ QUEUED` |
-| **Дисциплина** | `[█████████░]` | 95% | `↑ RISING` |
+> *Power readings across onboard subsystems. Some online, some still charging.*
 
----
-
-## 🔴 PROJECTS
-
-| # | PROJECT | TYPE | STATUS |
-| :--- | :--- | :--- | :--- |
-| 01 | [Birthday Search](https://chrisredfield48.github.io/voda/) | Vanilla JS | 🟢 SHIPPED |
-| 02 | [Zodiac Signs](https://chrisredfield48.github.io/zodiac/) | Vanilla JS | 🟢 SHIPPED |
-| 03 | [Graphic Designer](https://chrisredfield48.github.io/graphic-designer/) | UI Design | 🟢 SHIPPED |
-| 04 | [Cyberpunk Promo](https://chrisredfield48.github.io/Cyberpunk/) | Promo Site | 🟢 SHIPPED |
-| 05 | [Createx UI](https://chrisredfield48.github.io/Createx/) | UI Kit | 🟢 SHIPPED |
-| 06 | [NIP.SYS Portfolio](https://chrisredfield48.github.io/ip/) | Dashboard | 🟢 SHIPPED |
-| 07 | [Calculator](https://chrisredfield48.github.io/calculator/) | Vanilla JS | 🟢 SHIPPED |
-| 08 | Tic-Tac-Toe | Vanilla JS | ⚪ QUEUED |
-| 09 | Todo List | Vanilla JS | ⚪ QUEUED |
-| 10 | Quiz | Vanilla JS | ⚪ QUEUED |
-| 11 | Weather App | Vanilla JS | ⚪ QUEUED |
-| 12 | React Project | React | ⚪ QUEUED |
+```
+  SUBSYSTEM            CHARGE                          STATE
+  ──────────────────────────────────────────────────────────
+  HTML / CSS      ▰▰▰▰▰▰▰▰▰▰  100%   ◉ ONLINE
+  FIGMA           ▰▰▰▰▰▰▰▰▰▰  100%   ◉ ONLINE
+  DISCIPLINE      ▰▰▰▰▰▰▰▰▰▱   95%   ▲ RISING
+  JAVASCRIPT      ▰▰▰▱▱▱▱▱▱▱   30%   ⟳ CHARGING
+  REACT           ▱▱▱▱▱▱▱▱▱▱    0%   ◌ STANDBY
+  PYTHON / AI     ▱▱▱▱▱▱▱▱▱▱    0%   ◌ STANDBY
+  ──────────────────────────────────────────────────────────
+  CORE TEMP: NOMINAL          NEXT IGNITION: JAVASCRIPT
+```
 
 ---
 
-## 🔴 ROADMAP_2029
+## ⟢ TRANSMISSION 0x03 · FLIGHT RECORDER
 
-* `[ ✓ ]` **2024** — START College
-* `[ ✓ ]` **2025** — HTML·CSS / Figma
-* `[ ✓ ]` **2026** — JS + Projects
-* `[ ◄ ]` **NOW** — **YOU ARE HERE**
-* `[ → ]` **2027** — React + First Job
-* `[ → ]` **2028** — Python + AI
-* `[ ★ ]` **2029** — EURO ACADEMY
+> *Checkpoints logged along the route. `◉` cleared · `◌` ahead.*
+
+| LOG | CHECKPOINT | PAYLOAD | TELEMETRY |
+| :---: | :--- | :--- | :---: |
+| `01` | [Birthday Search](https://chrisredfield48.github.io/voda/) | Vanilla JS | ◉ DEPLOYED |
+| `02` | [Zodiac Signs](https://chrisredfield48.github.io/zodiac/) | Vanilla JS | ◉ DEPLOYED |
+| `03` | [Graphic Designer](https://chrisredfield48.github.io/graphic-designer/) | UI Design | ◉ DEPLOYED |
+| `04` | [Cyberpunk Promo](https://chrisredfield48.github.io/Cyberpunk/) | Promo Site | ◉ DEPLOYED |
+| `05` | [Createx UI](https://chrisredfield48.github.io/Createx/) | UI Kit | ◉ DEPLOYED |
+| `06` | [NIP.SYS Portfolio](https://chrisredfield48.github.io/ip/) | Dashboard | ◉ DEPLOYED |
+| `07` | [Calculator](https://chrisredfield48.github.io/calculator/) | Vanilla JS | ◉ DEPLOYED |
+| `08` | Tic-Tac-Toe | Vanilla JS | ◌ PLOTTED |
+| `09` | Todo List | Vanilla JS | ◌ PLOTTED |
+| `10` | Quiz | Vanilla JS | ◌ PLOTTED |
+| `11` | Weather App | Vanilla JS | ◌ PLOTTED |
+| `12` | React Project | React | ◌ PLOTTED |
+
+```
+  PAYLOADS DEPLOYED: 07 / 12      ▰▰▰▰▰▰▱▱▱▱▱▱   58%
+```
+
+---
+
+## ⟢ TRANSMISSION 0x04 · TRAJECTORY
+
+> *Burn sequence toward orbital insertion — Europe, 2029.*
+
+```
+  ◉━━━━━◉━━━━━◉━━━━━◆━━━━━○━━━━━○━━━━━★
+  2024  2025  2026  NOW   2027  2028  2029
+   │     │     │     │     │     │     │
+   │     │     │     │     │     │     ╰─ ★ ORBITAL INSERTION · Euro Academy
+   │     │     │     │     │     ╰─────── ○ Python + AI
+   │     │     │     │     ╰───────────── ○ React + first job
+   │     │     │     ╰─────────────────── ◆ YOU ARE HERE
+   │     │     ╰───────────────────────── ◉ JS + projects
+   │     ╰─────────────────────────────── ◉ HTML·CSS / Figma
+   ╰───────────────────────────────────── ◉ College — launch
+```
 
 ---
 
-## 🔴 ACTIVE.QUESTS
+## ⟢ TRANSMISSION 0x05 · ACTIVE OBJECTIVES
 
-### MAIN
-- 🟧 **[ACTIVE]** Закончить колледж
-- 🟧 **[ACTIVE]** Прокачать JavaScript
-- ⬛ **[QUEUED]** React → первый коммерческий проект
-- ⬛ **[QUEUED]** Python + AI / Machine Learning
-- ⬛ **[QUEUED]** Поступление в академию в Европе (2029)
+```
+  ▸ PRIMARY BURN ────────────────────────────────────
+     ⟳  Finish college
+     ⟳  Level up JavaScript
+     ◌  React → first commercial contract
+     ◌  Python + AI / Machine Learning
+     ◌  Admission to a European academy · 2029
 
-### SIDE
-- 🟩 **[DONE]** HTML / CSS → 100%
-- 🟩 **[DONE]** Figma / UI дизайн
-- 🟩 **[DONE]** Git basics
-- 🟩 **[DONE]** Calculator
-- 🟧 **[ACTIVE]** Самостоятельные JS-проекты
+  ▸ SECONDARY ───────────────────────────────────────
+     ◉  HTML / CSS → 100%
+     ◉  Figma / UI design
+     ◉  Git fundamentals
+     ◉  Calculator
+     ⟳  Independent JS missions
+```
 
 ---
+
+## ⟢ TRANSMISSION 0x06 · VESSEL SPECS
+
+> *What this craft — `nip.sys/v3.2` — is built from.*
+
+| MODULE | HARDWARE |
+| :--- | :--- |
+| `hull` | HTML5 — semantic, accessible |
+| `nav` | CSS3 — custom properties, Grid, Flexbox |
+| `core` | Vanilla JavaScript · ES2022+ · zero dependencies |
+| `drive` | Three.js r128 — GLSL-shaded planet + starfield |
+| `glyphs` | Syne · JetBrains Mono |
+| `relay` | GitHub Pages |
+
+```
+  ┌─ FLIGHT SYSTEMS ──────────────────────────────────┐
+  │  ◉ boot preloader      ◉ live FPS telemetry        │
+  │  ◉ WebGL planet        ◉ auto Lite-Mode fallback   │
+  │  ◉ starfield drift     ◉ RU / EN comms             │
+  └────────────────────────────────────────────────────┘
+```
+
+---
+
 <div align="center">
-  <small>© 2026 <b>NIP.SYS</b> · CHRIS · RUSSIA → BELGRADE</small>
+
+```
+        .          *               .         ✦
+   ✦         transmission ends — signal holds
+        .              *          .
+```
+
+<sub>◍ &nbsp; © 2026 **NIP.SYS** · CHRIS · RUSSIA → BELGRADE → EU &nbsp; ◍</sub>
+
+<br>
+
+<sub><i>"Every commit is a kilometer."</i></sub>
+
 </div>
