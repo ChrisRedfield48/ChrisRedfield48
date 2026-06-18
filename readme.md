@@ -1,29 +1,6 @@
 <div align="center">
 
-```
-        .  *       .          ✦              .      *
-   *           .          .            *
-         ___________________________________________
-        /                                           \
-       │   ◍   N I P . S Y S   ◍   M I S S I O N    │
-        \___________________________________________/
-              .              *           .
-     *                                          ✦
-                    .         *
-              ___---___
-           .--         --.
-         ./   ()      .-. \.
-        /   o    .   (   )  \         L A U N C H   V E S S E L
-       / .            '-'    \        ───────────────────────
-      | ()    .  O         .  |       designation · CHRIS
-      |            .  ____     |       class · WEB DEVELOPER
-      \    .     :   /    \   /        origin · RUSSIA
-       \         :  |      | /         heading · BELGRADE
-        \    .    :  \____/ /          eta · 2029
-         '.   .   :       .'
-           '-.__ : ___.-'
-                '''
-```
+<img src="banner.png" alt="NIP.SYS — MISSION: EUROPEAN ACADEMY · Russia → Belgrade → Europe · 2029" width="100%">
 
 # ⟢ MISSION: EUROPEAN ACADEMY ⟣
 
@@ -155,11 +132,17 @@
 
 > *What this craft — `nip.sys/v3.2` — is built from.*
 
+![HTML5](https://img.shields.io/badge/HTML5-141a2e?style=flat-square&logo=html5&logoColor=4fffc4)
+![CSS3](https://img.shields.io/badge/CSS3-141a2e?style=flat-square&logo=css3&logoColor=38c5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-141a2e?style=flat-square&logo=javascript&logoColor=ffd479)
+![Three.js](https://img.shields.io/badge/Three.js-141a2e?style=flat-square&logo=threedotjs&logoColor=a06bff)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-141a2e?style=flat-square&logo=githubpages&logoColor=6c7bff)
+
 | MODULE | HARDWARE |
 | :--- | :--- |
 | `hull` | HTML5 — semantic, accessible |
 | `nav` | CSS3 — custom properties, Grid, Flexbox |
-| `core` | Vanilla JavaScript · ES2022+ · zero dependencies |
+| `core` | Vanilla JavaScript · ES2022+ · no framework |
 | `drive` | Three.js r128 — GLSL-shaded planet + starfield |
 | `glyphs` | Syne · JetBrains Mono |
 | `relay` | GitHub Pages |
