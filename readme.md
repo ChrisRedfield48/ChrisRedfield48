@@ -55,18 +55,18 @@
   HTML / CSS      ▰▰▰▰▰▰▰▰▰▰  100%   ◉ ONLINE
   FIGMA           ▰▰▰▰▰▰▰▰▰▰  100%   ◉ ONLINE
   DISCIPLINE      ▰▰▰▰▰▰▰▰▰▱   95%   ▲ RISING
-  JAVASCRIPT      ▰▰▰▱▱▱▱▱▱▱   30%   ⟳ CHARGING
+  JAVASCRIPT      ▰▰▰▰▰▰▱▱▱▱   60%   ⟳ CHARGING
   REACT           ▱▱▱▱▱▱▱▱▱▱    0%   ◌ STANDBY
   PYTHON / AI     ▱▱▱▱▱▱▱▱▱▱    0%   ◌ STANDBY
   ──────────────────────────────────────────────────────────
-  CORE TEMP: NOMINAL          NEXT IGNITION: JAVASCRIPT
+  CORE TEMP: NOMINAL          CURRENT BURN: JAVASCRIPT
 ```
 
 ---
 
 ## ⟢ TRANSMISSION 0x03 · FLIGHT RECORDER
 
-> *Checkpoints logged along the route. `◉` cleared · `◌` ahead.*
+> *Checkpoints logged along the route. `◉` cleared · `⟳` in flight · `◌` ahead.*
 
 | LOG | CHECKPOINT | PAYLOAD | TELEMETRY |
 | :---: | :--- | :--- | :---: |
@@ -77,14 +77,18 @@
 | `05` | [Createx UI](https://chrisredfield48.github.io/Createx/) | UI Kit | ◉ DEPLOYED |
 | `06` | [NIP.SYS Portfolio](https://chrisredfield48.github.io/ip/) | Dashboard | ◉ DEPLOYED |
 | `07` | [Calculator](https://chrisredfield48.github.io/calculator/) | Vanilla JS | ◉ DEPLOYED |
-| `08` | Tic-Tac-Toe | Vanilla JS | ◌ PLOTTED |
-| `09` | Todo List | Vanilla JS | ◌ PLOTTED |
-| `10` | Quiz | Vanilla JS | ◌ PLOTTED |
-| `11` | Weather App | Vanilla JS | ◌ PLOTTED |
-| `12` | React Project | React | ◌ PLOTTED |
+| `08` | [Tic-Tac-Toe](https://github.com/ChrisRedfield48/Tic-Tac-Toe) | Vanilla JS | ◉ DEPLOYED |
+| `09` | [Projects Hub](https://chrisredfield48.github.io/Projects/) | JS Showcase | ◉ DEPLOYED |
+| `10` | [Python Path](https://chrisredfield48.github.io/python/) | Progress Tracker | ◉ DEPLOYED |
+| `11` | [Lexi](https://chrisredfield48.github.io/Lexi/) | Landing | ◉ DEPLOYED |
+| `12` | NEUROCOSMOS | Canvas Neural Art | ⟳ PRE-LAUNCH |
+| `13` | Todo List | Vanilla JS | ◌ PLOTTED |
+| `14` | Quiz | Vanilla JS | ◌ PLOTTED |
+| `15` | Weather App | Vanilla JS | ◌ PLOTTED |
+| `16` | React Project | React | ◌ PLOTTED |
 
 ```
-  PAYLOADS DEPLOYED: 07 / 12      ▰▰▰▰▰▰▱▱▱▱▱▱   58%
+  PAYLOADS DEPLOYED: 11 / 16      ▰▰▰▰▰▰▰▰▱▱▱▱   69%
 ```
 
 ---
@@ -123,7 +127,9 @@
      ◉  Figma / UI design
      ◉  Git fundamentals
      ◉  Calculator
-     ⟳  Independent JS missions
+     ◉  Tic-Tac-Toe
+     ◉  Projects Hub · Python Path · Lexi — live
+     ⟳  Independent JS missions (Todo · Quiz · Weather)
 ```
 
 ---
