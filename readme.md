@@ -74,22 +74,22 @@ SYS_TEMP: STABLE /// CURRENT EXPLOIT: JAVASCRIPT
 
 | ID | TARGET_NODE | VECTOR | STATUS |
 | --- | --- | --- | --- |
-| `01` | [Birthday Search](https://chrisredfield48.github.io/voda/) | Vanilla JS | [x] ROOTED |
-| `02` | [Zodiac Signs](https://chrisredfield48.github.io/zodiac/) | Vanilla JS | [x] ROOTED |
-| `03` | [Graphic Designer](https://chrisredfield48.github.io/graphic-designer/) | UI Design | [x] ROOTED |
-| `04` | [Cyberpunk Promo](https://chrisredfield48.github.io/Cyberpunk/) | Promo Site | [x] ROOTED |
-| `05` | [Createx UI](https://chrisredfield48.github.io/Createx/) | UI Kit | [x] ROOTED |
-| `06` | [NIP.SYS Portfolio](https://chrisredfield48.github.io/ip/) | Dashboard | [x] ROOTED |
-| `07` | [Calculator](https://chrisredfield48.github.io/calculator/) | Vanilla JS | [x] ROOTED |
-| `08` | [Tic-Tac-Toe](https://github.com/ChrisRedfield48/Tic-Tac-Toe) | Vanilla JS | [x] ROOTED |
-| `09` | [Projects Hub](https://chrisredfield48.github.io/Projects/) | JS Showcase | [x] ROOTED |
-| `10` | [Python Path](https://chrisredfield48.github.io/python/) | Tracker | [x] ROOTED |
-| `11` | [Lexi](https://chrisredfield48.github.io/Lexi/) | Landing | [x] ROOTED |
-| `12` | NEUROCOSMOS | Canvas Neural | [~] COMPILING |
-| `13` | Todo List | Vanilla JS | [ ] LOCKED |
-| `14` | Quiz | Vanilla JS | [ ] LOCKED |
-| `15` | Weather App | Vanilla JS | [ ] LOCKED |
-| `16` | React Project | React | [ ] LOCKED |
+| `01` | [Birthday Search](https://chrisredfield48.github.io/voda/) | Date logic, array filtering | [x] ROOTED |
+| `02` | [Zodiac Signs](https://chrisredfield48.github.io/zodiac/) | Date parsing, conditional matching | [x] ROOTED |
+| `03` | [Graphic Designer](https://chrisredfield48.github.io/graphic-designer/) | UI/UX layout, Figma-to-code | [x] ROOTED |
+| `04` | [Cyberpunk Promo](https://chrisredfield48.github.io/Cyberpunk/) | CSS animations, promo layout | [x] ROOTED |
+| `05` | [Createx UI](https://chrisredfield48.github.io/Createx/) | Component library, design system | [x] ROOTED |
+| `06` | [NIP.SYS Portfolio](https://chrisredfield48.github.io/ip/) | Three.js render, dashboard UI | [x] ROOTED |
+| `07` | [Calculator](https://chrisredfield48.github.io/calculator/) | DOM manipulation, event handling | [x] ROOTED |
+| `08` | [Tic-Tac-Toe](https://github.com/ChrisRedfield48/Tic-Tac-Toe) | Game state, win-condition logic | [x] ROOTED |
+| `09` | [Projects Hub](https://chrisredfield48.github.io/Projects/) | Dynamic rendering, JS showcase | [x] ROOTED |
+| `10` | [Python Path](https://chrisredfield48.github.io/python/) | Progress tracker, local state | [x] ROOTED |
+| `11` | [Lexi](https://chrisredfield48.github.io/Lexi/) | Landing page, responsive layout | [x] ROOTED |
+| `12` | NEUROCOSMOS | Canvas API, particle system | [~] COMPILING |
+| `13` | Todo List | CRUD, local storage | [ ] LOCKED |
+| `14` | Quiz | State machine, scoring logic | [ ] LOCKED |
+| `15` | Weather App | Fetch API, external data | [ ] LOCKED |
+| `16` | React Project | Components, hooks | [ ] LOCKED |
 
 ```text
 >> PAYLOADS SUCCESSFULLY EXECUTED: 11 / 16  [ 69% ]
@@ -106,11 +106,16 @@ SYS_TEMP: STABLE /// CURRENT EXPLOIT: JAVASCRIPT
  [x]─────[x]─────[x]─────[!]─────[?]─────[?]─────[💀]
  2024    2025    2026    NOW     2027    2028    2029
    |       |       |      |       |       |       \__ 💀 MAIN_FRAME: Euro Academy
-   |       |       |      |       |       \__________ [?] Python + AI Backdoors
-   |       |       |      |       \__________________ [?] React + First Payout
-   |       |       |      \__________________________ [!] YOU ARE HERE
-   |       |       \_________________________________ [x] JS Exploits
-   |       \_________________________________________ [x] UI / CSS Shells
+   |       |       |      |       |       \__________ [?] Python + ML integration,
+   |       |       |      |       |                    portfolio v4.0
+   |       |       |      |       \__________________ [?] React deployed,
+   |       |       |      |                            first corporate gig
+   |       |       |      \__________________________ [!] YOU ARE HERE —
+   |       |       |                                   JS exploits scaling
+   |       |       \_________________________________ [x] JS Exploits —
+   |       |                                            11/16 payloads rooted
+   |       \_________________________________________ [x] UI / CSS Shells —
+   |                                                    HTML/CSS/Figma 100%
    \_________________________________________________ [x] College — Initial Boot
 
 ```
@@ -169,6 +174,6 @@ SYS_TEMP: STABLE /// CURRENT EXPLOIT: JAVASCRIPT
 
 ```
 
-💀   © 2026 **NIP.SYS** · CHRIS · RUSSIA ➔ BELGRADE ➔ EU   💀
+💀   © 2026 **NIP.SYS** · CHRIS · RUSSIA ➔ BELGRADE ➔ EU   💀
 
 "Every commit is a breached firewall."
